@@ -10,7 +10,7 @@ _But where's the **fun** in that?_
 
 Instead, I've built a string parser that tokenizes the input, builds an abstract syntaxt tree and computes the result recursively using depth first search!
 
-<br>
-<br>
+
 ---
+
 Feel free to explore the core library!
